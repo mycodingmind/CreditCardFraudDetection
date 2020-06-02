@@ -1,0 +1,7 @@
+- Credit card fraud detection model
+- End result: Enter a transaction with several features and model will predict fraud or not fraud
+- Start by learning about data set found at https://www.kaggle.com/dalpozz/creditcardfraud
+- Manipulate data set into format we want to work with
+- Build the model as a tensorflow computational graph
+- Train and test the model
+- Output accuracy when comparing predicted and actual values
